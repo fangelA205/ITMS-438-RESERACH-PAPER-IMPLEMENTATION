@@ -1,0 +1,6 @@
+Accuracy: 0.9969
+Precision: 0.9960
+Recall: 0.9969
+F1-Score: 0.9959
+Training Time (s): 0.5603
+False Positive Rate (FPR): 0.0003

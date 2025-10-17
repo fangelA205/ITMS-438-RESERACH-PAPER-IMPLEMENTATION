@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Flood",
+        "start_time": "1970-01-01T00:16:40",
+        "end_time": "1970-01-01T00:17:40",
+        "device": "sensor_temp_01"
+    },
+    {
+        "type": "Replay",
+        "start_time": "1970-01-01T00:17:50",
+        "end_time": "1970-01-01T00:18:50",
+        "device": "sensor_vib_02"
+    },
+    {
+        "type": "Data_Injection",
+        "start_time": "1970-01-01T00:19:00",
+        "end_time": "1970-01-01T00:20:00",
+        "device": "sensor_temp_01"
+    }
+]
